@@ -1,5 +1,5 @@
 # Stressed_ECL_Calculation_VBA_Macros
-This repository contains VBA code to automate the computation and management of expected credit loss (ECL) calculations based on various input and staging criteria.
+The VBA macros are designed to manage and calculate Expected Credit Loss (ECL) under various stress scenarios, as part of financial risk management and compliance with accounting standards IFRS 9. The ECL represents potential losses from credit risk over the lifetime of financial assets (e.g., loans).
 
 ## Features
 - Updates `FLAG_STAT_STAGE2` based on input conditions.
